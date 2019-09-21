@@ -30,6 +30,11 @@ yarn add react react-dom
 yarn add babel-loader -D
 ```
 
+- **DevServer:**
+```js
+yarn add webpack-dev-server -D
+```
+
 
 
 
