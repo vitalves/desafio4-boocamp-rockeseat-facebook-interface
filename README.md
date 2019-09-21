@@ -11,7 +11,9 @@ Criação de uma **interface** semelhante com a do **Facebook** utilizando React
 ## passo a passo configuração do projeto
 
 - **Criar o arquivo package.json:**
-- *yarn init -y*
+```js
+yarn init -y
+```
 
 
 
