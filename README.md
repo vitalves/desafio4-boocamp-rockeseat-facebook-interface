@@ -20,6 +20,12 @@ yarn init -y
 yarn add @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli -D
 ```
 
+- **React e React-dom:**
+```js
+yarn add react react-dom
+```
+
+
 
 
 

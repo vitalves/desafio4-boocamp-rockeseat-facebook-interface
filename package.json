@@ -2,6 +2,8 @@
   "name": "desafio04",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/vitalves/desafio4-boocamp-rockeseat-facebook-interface.git",
+  "author": "vitalves",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.6.0",
@@ -9,5 +11,9 @@
     "@babel/preset-react": "^7.0.0",
     "webpack": "^4.40.2",
     "webpack-cli": "^3.3.9"
+  },
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
   }
 }
