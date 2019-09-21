@@ -25,6 +25,11 @@ yarn add @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli -
 yarn add react react-dom
 ```
 
+- **Babel loader:**
+```js
+yarn add babel-loader -D
+```
+
 
 
 
