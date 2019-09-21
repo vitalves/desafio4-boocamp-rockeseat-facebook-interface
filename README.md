@@ -1,6 +1,6 @@
 # Desafio 04. Introdução ao React
 
-aplicação do zero utilizando **Webpack, Babel, Webpack Dev Server e ReactJS**.
+Aplicação do zero utilizando **Webpack, Babel, Webpack Dev Server e ReactJS**.
 
 Criação de uma **interface** semelhante com a do **Facebook** utilizando React JS.
 
