@@ -8,10 +8,22 @@ Criação de uma **interface** semelhante com a do **Facebook** utilizando React
 
 ![Facebook](assets/facebook.png)
 
-## passo a passo configuração do projeto
+## Configuração do projeto
 
 - **Criar o arquivo package.json:**
-- *yarn init -y*
+```js
+yarn init -y
+```
+
+- **Dependências de desenvolvimento:**
+```js
+yarn add @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli -D
+```
+
+
+
+
+
 
 
 
