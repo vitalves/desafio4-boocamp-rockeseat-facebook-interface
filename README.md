@@ -35,6 +35,23 @@ yarn add babel-loader -D
 yarn add webpack-dev-server -D
 ```
 
+- **Adiciona os 'loaders' de css**
+
+```js
+ yarn add style-loader css-loader -D
+-```
+
+*style-loader:* importa o css do componente para o index.js da raiz
+*css-loader:* possibilita importações dentro do css (@import '/out.css'; background: url('img/img.jpg');)
+
+- **Adicionando imagens (file loader)**
+
+```js
+ yarn add file-loader -D
+```
+
+
+
 
 
 
