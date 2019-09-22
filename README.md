@@ -42,7 +42,6 @@ yarn add webpack-dev-server -D
 ```
 
 *style-loader:* importa o css do componente para o index.js da raiz.
-
 *css-loader:* possibilita importações dentro do css (@import '/out.css'; background: url('img/img.jpg');)
 
 - **Adicionando imagens (file loader)**
