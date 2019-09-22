@@ -51,14 +51,10 @@ yarn add webpack-dev-server -D
  yarn add file-loader -D
 ```
 
+**plugin-proposal-class-properties**
 
+Possubilita do uso de *state* sem a necessidade de criar um *constructor* em classes.
 
-
-
-
-
-
-
-
-
-
+```js
+yarn add @babel/plugin-proposal-class-properties -D
+```
