@@ -80,9 +80,63 @@ section .post-list {
   display: flex;
   flex-direction: column;
   border: 1px solid #FFF;
-  box-shadow: 0px 3px 5px 0px rgba(107,107,107,0.5);
+  box-shadow: 0px 3px 5px 0px rgba(107,107,107,0.3);
 }
 
 section .post-list .post-list-header{
-
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+section .post-list .post-list-header-avatar img {
+  margin: 10px;
+  width: 40px;
+  height: 40px;
+  border: 2px solid #FFF;
+  border-radius: 50%;
+}
+section .post-list .post-list-header-name {
+  font-weight: bold;
+  font-size: 14px;
+  color: #555;
+}
+section .post-list .post-list-header-date {
+  font-weight: normal;
+  font-size: 12px;
+  color: #888;
+}
+section .post-list .post-list-body{
+  margin: 0 10px;
+  font-size: 13px;
+  color: #555;
+}
+section .post-list span {
+  margin: 20px auto 10px auto;
+  width: 98%;
+  height: 2px;
+  background: rgba(107,107,107,0.07)
+}
+section .post-list .post-list-comment {
+  width: 98%;
+  margin: 10px;
+  margin-bottom: 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: stretch;
+}
+section .post-list .post-list-comment-avatar img {
+  margin: 10px 0;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  border: 2px solid #DDD;
+}
+section .post-list .post-list-comment-content {
+  margin: 0px 10px 0 10px;
+  background: rgba(107,107,107,0.1);
+  font-size: 12px;
+  color: #666;
+  padding: 10px;
+  border-radius: 8px;
 }
