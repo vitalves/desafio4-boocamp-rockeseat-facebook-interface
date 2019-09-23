@@ -6,7 +6,7 @@ Criação de uma **interface** semelhante com a do **Facebook** utilizando React
 
 ## Tela da aplicação:
 
-![Facebook](assets/facebook.jpg)
+![Facebook](assets/facebook.png)
 
 ## Configuração do projeto
 
